@@ -25,3 +25,10 @@ This source mainly focuses on support groups and the different programs that are
 
 https://firstfocus.org/wp-content/uploads/2013/03/13-medicaid-and-children-in-foster-care.pdf
 This article has a main focus on Medicaid and mentions that healthcare coverage is very limited for foster children and there are not many affordable options. It also states that the Medicare coverage for foster children is not the same and has less benefits than any other insurance options. This is an overall issue that needs to be changed and the article does a great job explaining why and how. 
+
+Data sets:
+
+National Dataset 2012 – 2021
+https://www.acf.hhs.gov/cb/report/trends-foster-care-adoption
+
+This dataset includes information regarding the number of children/youth in the foster care system in the United States from 2012 - 2021. It includes seven columns on the number of children served, how many entered or exited on a given year, were in care on September 30th, waiting for adoption, had parental rights terminated, and number that were adopted. 
