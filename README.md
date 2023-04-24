@@ -16,9 +16,12 @@ This source comes from the Department of Health and Human Services and addresses
 
 https://aspe.hhs.gov/reports/providing-medicaid-youth-formerly-foster-care-under-chafee-option-0
 This article mentions the lack of healthcare information that is taught to children in the foster care system and talks about the impacts that it can have on them in the long run. It also addresses how children have harder times as they grow and start to live on their own because of the lack of knowledge they have. The source lists what they can apply for depending on the state they are in and overall how to go about the entire process. 
- https://publications.aap.org/pediatrics/article/147/3_MeetingAbstract/84/4941/A-Statewide-Approach-to-Increasing-Early-Access-to?autologincheck=redirected
+
+https://publications.aap.org/pediatrics/article/147/3_MeetingAbstract/84/4941/A-Statewide-Approach-to-Increasing-Early-Access-to?autologincheck=redirected
 Addresses the healthcare needs for children in foster care and provides recommendations for making sure that they receive fair and equal care. It also mentions the social aspects in life that may have a toll on their health such as food insecurity and housing accommodations. 
+
 https://nashp.org/how-state-medicaid-programs-serve-children-and-youth-in-foster-care/
 This source mainly focuses on support groups and the different programs that are available for children in foster care, as well as how children in foster care benefit from support systems when it comes to healthcare with services such as Medicaid. Although, many receive limited access to care which increases the rates to healthcare needs. 
+
 https://firstfocus.org/wp-content/uploads/2013/03/13-medicaid-and-children-in-foster-care.pdf
 This article has a main focus on Medicaid and mentions that healthcare coverage is very limited for foster children and there are not many affordable options. It also states that the Medicare coverage for foster children is not the same and has less benefits than any other insurance options. This is an overall issue that needs to be changed and the article does a great job explaining why and how. 
