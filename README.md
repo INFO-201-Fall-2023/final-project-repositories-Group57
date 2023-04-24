@@ -36,4 +36,7 @@ This dataset includes information regarding the number of children/youth in the 
 
 Dataset #2
 
+https://www.dshs.wa.gov/sites/default/files/rda/reports/DCYFcovid.pdf
+
+This dataset talks about child welfare and provides information on how the Washington State Department of Social and Health Services helped provide for children in the foster care system as well as the actions taken during the pandemic. It’s main focus is the years from 2019-2023 and has 5 columns with a range of numbers of how children were impacted during the pandemic. 
 
