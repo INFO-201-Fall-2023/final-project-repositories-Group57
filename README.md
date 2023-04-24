@@ -1,2 +1,2 @@
-# final-project-repositories-Group57
-final-project-repositories-nhumkey-2021481 created by GitHub Classroom
+# Final Project Proposal - Group 57
+By: Noelle Humkey, Yordi Taeme, Zynab Harif
