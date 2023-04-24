@@ -32,4 +32,8 @@ Dataset #1
 
 https://www.acf.hhs.gov/cb/report/trends-foster-care-adoption
 
-This dataset includes information regarding the number of children/youth in the foster care system in the United States from 2012 - 2021. It includes seven columns on the number of children served, how many entered or exited on a given year, were in care on September 30th, waiting for adoption, had parental rights terminated, and number that were adopted. 
+This dataset includes information regarding the number of children/youth in the foster care system in the United States from 2012 - 2021. It includes seven columns on the number of children served, how many entered or exited on a given year, were in care on September 30th, waiting for adoption, had parental rights terminated, and number that were adopted. There are 71 rows and 3 columns on the actual dataset, but the report shows 7 columns summarizing that data.
+
+Dataset #2
+
+
